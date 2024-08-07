@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "mywallet.app.jwtCookieName",
+    "type": "java.lang.String",
+    "description": "A description for 'mywallet.app.jwtCookieName'"
+  },
+  {
+    "name": "mywallet.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'mywallet.app.jwtExpirationMs'"
+  },
+  {
+    "name": "mywallet.app.jwtsecret",
+    "type": "java.lang.String",
+    "description": "A description for 'mywallet.app.jwtsecret'"
+  },
+  {
+    "name": "mywallet.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'mywallet.app.jwtExpirationMs'"
+  },
+  {
+    "name": "service.security.secure-key-username",
+    "type": "java.lang.String",
+    "description": "A description for 'service.security.secure-key-username'"
+  },
+  {
+    "name": "service.security.secure-key-password-2",
+    "type": "java.lang.String",
+    "description": "A description for 'service.security.secure-key-password-2'"
+  },
+  {
+    "name": "service.security.secure-key-password",
+    "type": "java.lang.String",
+    "description": "A description for 'service.security.secure-key-password'"
+  },
+  {
+    "name": "service.security.secure-key-username-2",
+    "type": "java.lang.String",
+    "description": "A description for 'service.security.secure-key-username-2'"
+  }
+]}
